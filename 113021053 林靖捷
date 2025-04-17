@@ -1,0 +1,38 @@
+import requests
+from bs4 import BeautifulSoup
+from google.colab import files
+
+url = "https://csie.asia.edu.tw/en/TeacherIntroduction/Full_time_faculty"
+response = requests.get(url)
+
+# Check if the request was successful
+if response.status_code == 200:
+    soup = BeautifulSoup(response.text, "html.parser")
+
+    # Open a file to save the data
+    with open("/content/faculty_expertise.txt", "w", encoding="utf-8") as f:
+        # Use the correct selector based on your inspection
+        faculty_members = soup.select("ul.i-member-profile-list")  # Adjust the selector
+
+        # Check if any faculty members were found
+        if not faculty_members:
+            print("No faculty members found! Check the CSS selector.")
+        else:
+            # Iterate over each faculty member
+            for member in faculty_members:
+                name = member.select_one("a")  # Adjust the selector for name
+                name = name.text.strip() if name else "N/A"
+
+                research_areas = member.select_one("span.i-member-value.member-data-value-7")  # Adjust the selector for research areas
+                research_areas = research_areas.text.strip() if research_areas else "N/A"
+
+                # Write the data to the file
+                f.write(f"Name: {name}\n")
+                f.write(f"Research Areas: {research_areas}\n")
+                f.write("-" * 40 + "\n")
+
+    print("Saved to faculty_expertise.txt ✅")
+    # Download the file
+    files.download("/content/faculty_expertise.txt")
+else:
+    print(f"Failed to retrieve the webpage. Status code: {response.status_code}")
