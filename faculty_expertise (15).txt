@@ -1,0 +1,63 @@
+Name: Wen-Thong Chang(張文鐘)
+Research Areas: Video signal processing, video/audio streaming, Video compressing and encoding/decoding, networking and communication,mobile and cellular communication,signal and image processing,cloud computing and storage.
+----------------------------------------
+Name: Jeffrey J.P. Tsai(蔡進發)
+Research Areas: Artificial Intelligence, Biological data, Software Engineering, Distributed Systems
+----------------------------------------
+Name: Wen-Lian Hsu(許聞廉)
+Research Areas: Analysis of Algorithms、Bioinformatics、Computational Linguistics、Natural Language Understanding、Intelligent dialogue system
+----------------------------------------
+Name: Arbee L.P. Chen(陳良弼)
+Research Areas: Big Data Analysis, Preference Query, Mobile Information System
+----------------------------------------
+Name: Min-Shiang Hwang(黃明祥)
+Research Areas: Library and Information Security, IT Network Management, Information Security, Mobile Communication, E-commerce
+----------------------------------------
+Name: Ching-Hsien Hsu(許慶賢)
+Research Areas: Cloud computing , Artifical Intelligence , Parallel and Distributed System , HPC , Big data and Stream Processing , Smart Medical
+----------------------------------------
+Name: Wen-Hsi Lee(李文熙)
+Research Areas: Organic thin-film transistors, semiconductor thin-film processing, thin-film solar cells, electronic ceramics, radio-frequency ceramic components, system integration
+----------------------------------------
+Name: Shyi-Ming Chen(陳錫明)
+Research Areas: Fuzzy Systems, Intelligent Systems, Fuzzy Decision Making, Computational Intelligence, Knowledge-Based Systems, Machine Learning, Data Mining, Big Data Analysis, Genetic Algorithms, Particle Swam Optimization Techniques, Neural Networks
+----------------------------------------
+Name: Shi-Jinn Horng(洪西進)
+Research Areas: Deep Learning & Big Data, Biometric Recognition,Information Security,Cloud & Fault Computing,Multimedia Applications,Medical Applications
+----------------------------------------
+Name: Gene-Eu Jan(詹景裕)
+Research Areas: Computer Architecture, Parallel Processing, Switching Networks, Very-Large-Scale Integration (VLSI) Design
+----------------------------------------
+Name: Shiow-Fon Tsay(蔡秀芬)
+Research Areas: Theoretical Condensed Matter Physics, Computational Physics, Engineering Mathematics
+----------------------------------------
+Name: Chin-Sung Hsiao(蕭進松)
+Research Areas: Integrated Optics Component Design & Numerical Simulation, Electromagnetic Optics, Optical Fiber Communications, Digital Image & Signal Processing
+----------------------------------------
+Name: Hsing-Chung Chen(陳興忠)
+Research Areas: Information and Communication Security, AI, AIoT, Applied Cryptography, Blockchain Technology Applications and Security, Quantum-Safe Supply Trust Chain
+----------------------------------------
+Name: Brij Bhooshan Gupta
+Research Areas: Information security, Cyber Security, Cloud Security, Mobile and Web Security, Artificial Intelligence, IoTs, Intrusion detection, Network Performance Evaluation.
+----------------------------------------
+Name: Neng-Yih Shih(施能義)
+Research Areas: Signal processing, Communication systems, Control theory
+----------------------------------------
+Name: Chun-Yuan Lin(林俊淵)
+Research Areas: Parallel Processing (Languages, Algorithms).Bioinformatics (Genomics, Proteomics, Systems Biology, Next-Generation Sequencing).Cheminformatics (Drug Design, Computational Chemistry).Neurocomputing (Drosophila brain research)Machine Learning (Deep Learning, Extreme Learning Machine, SVM, Neural Network)
+----------------------------------------
+Name: Zhi-Ren Tsai (蔡志仁)
+Research Areas: Adaptive control, computer vision, robotics, power electronics
+----------------------------------------
+Name: Zeng Xianzhang(曾憲章) Cater Tseng
+Research Areas: N/A
+----------------------------------------
+Name: Tadao Murata
+Research Areas: Applications of Petri nets to problems related to the design, modeling, analysis, and performance of concurrent systems such as the following: distributed/communication software, network protocols, logic- and rule-based AI systems, manufacturing systems, parallel computing systems, and systems with fuzzy latency.
+----------------------------------------
+Name: Chin-Hui Lee (李錦輝)
+Research Areas: N/A
+----------------------------------------
+Name: Kuan Tsae Huang(黃光彩)
+Research Areas: N/A
+----------------------------------------
